@@ -4,7 +4,6 @@ The model name came from Tractor, England 20 horsepower (not the true power deli
 
 | Model  |                                                       | Year      |
 |--------|-------------------------------------------------------|-----------|
-
 | TEB-20 | Tractor with Continental Z-120 petrol engine - Narrow | 1946-1948 |
 | TEC-20 | Tractor with Standard petrol engine - Narrow          | 1948-1956 |
 | TED-20 | Tractor with Standard V.0.engine                      | 1949-1956 |
