@@ -1,6 +1,8 @@
 # Manuals etc
 http://vieux.tracteurs.free.fr/pdf/FE_20_TE_SERVICE_MANUAL_bis.pdf todo upload and link
 
+https://www.slideshare.net/slideshow/massey-ferguson-te-20-tractor-parts-catalogue-manual/238151767 seems to be part list the same as my printed one, but some better diagrams/scan quality
+
 
 # Parts
 
